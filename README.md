@@ -35,3 +35,14 @@
 | [**Bookify**](https://github.com/kevvj/Bookify) | App para leer libros en otros idiomas y guardar palabras con su traducción. | React Native · Spring Boot |
 
 Más proyectos, capturas y demos en **[kevintapias.site](https://www.kevintapias.site)**
+
+### Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevvj&theme=github_dark" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevvj&theme=github_dark" alt="Lenguajes por repo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kevvj&hide_border=true&background=282c33&ring=0080a7&fire=0080a7&currStreakLabel=0080a7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=abb2bf&stroke=3e4451&locale=es" alt="Racha de contribuciones" />
+</p>
