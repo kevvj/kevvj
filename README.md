@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Kevin Tapias 👋</h1>
+<h1 align="center">Hola, soy Kevin Tapias</h1>
 <h3 align="center">Desarrollador Full Stack · Web, móvil y escritorio</h3>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ### Sobre mí
 
-- 💼 Desarrollador Full Stack en **ICFC Internacional**: lidero herramientas internas para una organización con varias sedes.
-- 📦 Hice **Inventario ICFC**: app de escritorio (Next.js + Tauri) y Android (Expo) con códigos QR y actualizaciones automáticas.
-- 🗓️ Hice **Plan semanal**: horarios y turnos con edición colaborativa en tiempo real.
-- 🤖 Me gusta llevar modelos de machine learning a apps que se usan en el navegador.
-- 🎓 Último semestre de Ingeniería de Sistemas en la Universidad de Córdoba · 📍 Montería, Colombia.
+- Desarrollador Full Stack en **ICFC Internacional**: lidero herramientas internas para una organización con varias sedes.
+- Hice **Inventario ICFC**: app de escritorio (Next.js + Tauri) y Android (Expo) con códigos QR y actualizaciones automáticas.
+- Hice **Plan semanal**: horarios y turnos con edición colaborativa en tiempo real.
+- Me gusta llevar modelos de machine learning a apps que se usan en el navegador.
+- Último semestre de Ingeniería de Sistemas en la Universidad de Córdoba · Montería, Colombia.
 
 ### Tecnologías
 
@@ -34,7 +34,7 @@
 | [**TMachine**](https://github.com/kevvj/TMachine) | Reconocimiento de objetos en tiempo real con la cámara del navegador. | Next.js · TensorFlow.js |
 | [**Bookify**](https://github.com/kevvj/Bookify) | App para leer libros en otros idiomas y guardar palabras con su traducción. | React Native · Spring Boot |
 
-👉 Más proyectos, capturas y demos en **[kevintapias.site](https://www.kevintapias.site)**
+Más proyectos, capturas y demos en **[kevintapias.site](https://www.kevintapias.site)**
 
 ### Estadísticas
 
